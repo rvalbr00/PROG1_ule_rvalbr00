@@ -1,0 +1,10 @@
+árbol https://dle.rae.es/%C3%A1rbol
+casa https://dle.rae.es/casa
+libro https://dle.rae.es/libro
+ordenador https://dle.rae.es/ordenador
+montaña https://dle.rae.es/monta%C3%B1a
+camino https://dle.rae.es/camino
+agua https://dle.rae.es/agua
+sol https://dle.rae.es/sol
+ventana https://dle.rae.es/ventana
+universidad https://dle.rae.es/universidad
